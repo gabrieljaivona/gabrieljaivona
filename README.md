@@ -1,55 +1,63 @@
-<h1 align="left">Olá! Eu sou Gabriel Jaivona👋</h1>
+# Olá, eu sou o Gabriel! 👋
 
-###
+### 🚀 Desenvolvedor Full Stack | Game Developer | Especialista em Infraestrutura
+Sou estudante de Ciência da Computação na UNEMAT, apaixonado por resolver problemas complexos, seja em servidores de alto desempenho, arquiteturas web modernas ou mecânicas de jogos.
 
-<h2 align="left">About Me</h2>
+---
 
-###
+## 🛠️ Projetos Ativos
+- 🎮 **Harp Game Studio** – Co-fundador e desenvolvedor focado em novas experiências de jogo.
+- 🛰️ **Monitoramento de Saúde Digital** – Pesquisa e desenvolvimento de infraestrutura para sistemas de saúde.
+- 🎣 **Realistic Fishing** – Modificação técnica e mecânicas avançadas para Minecraft.
+---
 
-<p align="left">👋 Oii! Eu sou Gabriel Jaivona, um estudante de ciência da computação apaixonado pela  área de Full Stack. Este é o meu cantinho no GitHub, onde compartilho projetos, aprendizados e ideias.”</p>
+## 💻 Tecnologias e Ferramentas
 
-###
+### 🌐 Full Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h2 align="left">Techs</h2>
+### 🎮 Game Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-</div>
+### 🛰️ Infraestrutura & Networking
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+### 🕹️ Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljaivona/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reaperjfs)
+---
 
-<h2 align="left">Stats</h2>
+## 📊 Estatísticas e Atividade
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrieljaivona&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljaivona&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px" />
+    </td>
+  </tr>
+</table>
 
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljaivona&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" />
+</p>
 
-<br clear="both">
+![snake gif](https://github.com/gabrieljaivona/gabrieljaivona/blob/output/github-contribution-grid-snake.svg)
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljaivona&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieljaivona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljaivona&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabrieljaivona/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gabrieljaivona/gabrieljaivona/output/snake.svg" alt="Snake animation" />
-
-###
